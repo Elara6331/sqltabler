@@ -1,0 +1,4 @@
+github.com/go-test/deep v1.0.8 h1:TDsG77qcSprGbC6vTN8OuXp5g+J+b5Pcguhf7Zt61VM=
+github.com/go-test/deep v1.0.8/go.mod h1:5C2ZWiW0ErCdrYzpqxLbTX7MG14M9iiw8DgHncVwcsE=
+github.com/rqlite/sql v0.0.0-20241029220113-152a320b02f7 h1:Mnz6yd4FWtiD6bbH9WHFFHfrOM2OYTUTmwrsckRc4W8=
+github.com/rqlite/sql v0.0.0-20241029220113-152a320b02f7/go.mod h1:ib9zVtNgRKiGuoMyUqqL5aNpk+r+++YlyiVIkclVqPg=
